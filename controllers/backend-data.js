@@ -97,7 +97,7 @@ res.send([
         Category: "hollyWood",
         Name: "The Ravine 2021 ",
         Date: "  18 November 2021",
-        Img: "//bdmusicboss.work/wp-content/uploads/2022/01/The-Ravine-2021-English-720p-AMZN-WEB-DL-H264-AAC-800MB-ESub.jpg",
+        Img: "https://bdmusicboss.work/wp-content/uploads/2022/01/The-Ravine-2021-English-720p-AMZN-WEB-DL-H264-AAC-800MB-ESub.jpg",
         Details: "Imdb: 5.3/10  | Directed: Keoni Waxman | Type: Drama | Stars: Teri Polo, Eric Dane, Peter Facinell",
         About: "On a weekday morning in a peaceful suburb of Akron, Ohio, the town awakens to discover that Rachel Turner and her son, Evan, have been brutally murdered during the night. A short while later, Danny Turner is found in his car at the bottom…"
     },
