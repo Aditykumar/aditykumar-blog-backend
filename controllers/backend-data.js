@@ -1,4 +1,4 @@
-const data=(req,res)=>{
+const get=(req,res)=>{
 res.send([
     {
         Id: "1",
@@ -442,4 +442,4 @@ res.send([
 
 ])
 }
-module.exports.blogData = data
+module.exports.blogData = get
