@@ -64,7 +64,7 @@ const user=[
 
     {
         id: "7",
-        category: "bollywood",
+        category: "top",
         name: "brothers",
         date: "15 August 2015",
        details:"Type: Action, Drama, Sport | Imdb: 6.5/10 | Directed: Karan Malhotra | Stars:Akshay Kumar, Sidharth Malhotra, Jackie Shroff ",
