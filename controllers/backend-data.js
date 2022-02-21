@@ -86,7 +86,7 @@ const user=[
 
     {
         id: "9",
-        category: "hollywood",
+        category: "Featured",
         name: "Ghostbusters ",
         date: "  18 November 2021",
        details:"Type: Adventure ,Comedy ,Fantasy | Imdb: 7.6/10 | Directed: Jason Reitman | Stars: Carrie Coon ,Paul Rudd ,Finn Wolfhard ",
@@ -168,7 +168,7 @@ const user=[
 
     {
         id: "17",
-        category: "technology",
+        category: "Featured",
         name: " Robotic Process Automation (RPA) ",
         date: " early 2000s ",
        img: "https://www.hult.edu/blog/media/uploads/2020/03/robotic-process-automation-business-RPA.jpg",
@@ -342,7 +342,7 @@ const user=[
 
     {
         id: "33",
-        category: "food",
+        category: "Featured",
         date: " August 9, 2021 ",
         name: "Barfi",
        img: "https://sukhis.com/app/uploads/2017/06/IndianMithai.jpg",
