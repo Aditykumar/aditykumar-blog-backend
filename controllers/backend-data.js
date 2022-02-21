@@ -1,5 +1,7 @@
 const get=(req,res)=>{
-res.send([
+    console.log("*******Request query************", req.query);
+    console.log("*******Request query************", req.params);
+const user=[
     {
         Id: "1",
         Category: "bollywood",
@@ -440,6 +442,16 @@ res.send([
 
 
 
-])
+]
+if(req.query.Id){
+    const newuser =user.filter(value=>value.Id===req.query.Id)
+    res.send(newuser);
+} else if(req.params.Category){
+    const newuser =user.filter(value=>value.Category===req.params.Category)
+    res.send(newuser);
+}
+else{
+    res.send(user)
+}
 }
 module.exports.blogData = get
