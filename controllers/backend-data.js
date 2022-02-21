@@ -449,6 +449,8 @@ if(req.query.Id){
 } else if(req.params.Category){
     const newuser =user.filter(value=>value.Category===req.params.Category)
     res.send(newuser);
+}else{
+    res.send(user)
 }
 
 }
