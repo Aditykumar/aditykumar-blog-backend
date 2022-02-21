@@ -137,7 +137,7 @@ const user=[
 
     {
         id: "14",
-        category: "hollywood",
+        category: "top",
         name: "The accursed ",
         date: "12 November 2021",
        img: "https://s2.dmcdn.net/v/TLdGn1XT4kc682CK8/x1080",
@@ -158,7 +158,7 @@ const user=[
 
     {
         id: "16",
-        category: "technology",
+        category: "top",
         name: " Artificial Intelligence (AI) and Machine Learning ",
         date: " 1956 ",
        img: "https://image.shutterstock.com/image-vector/artificial-intelligence-humanoid-head-neural-260nw-1384554629.jpg",
@@ -355,7 +355,7 @@ const user=[
 
     {
         id: "34",
-        category: "food",
+        category: "top",
         date: " August 9, 2021 ",
         name: "Paneer Makhani",
        img: "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-butter-masala-recipe-2.jpg",
