@@ -86,7 +86,7 @@ const user=[
 
     {
         id: "9",
-        category: "hollyWood",
+        category: "hollywood",
         name: "Ghostbusters ",
         date: "  18 November 2021",
        details:"Type: Adventure ,Comedy ,Fantasy | Imdb: 7.6/10 | Directed: Jason Reitman | Stars: Carrie Coon ,Paul Rudd ,Finn Wolfhard ",
@@ -96,7 +96,7 @@ const user=[
 
     {
         id: "10",
-        category: "hollyWood",
+        category: "hollywood",
         name: "The Ravine 2021 ",
         date: "  18 November 2021",
        img: "https://www.themoviedb.org/t/p/w440_and_h660_face/ksnJdNMJJ0d36oUY2iRzI66u1Z5.jpg",
@@ -106,7 +106,7 @@ const user=[
 
     {
         id: "11",
-        category: "hollyWood",
+        category: "hollywood",
         name: "DeadLock ",
         date: " 17 Nov 2021 ",
        img: "https://i.ytimg.com/vi/UMO2Lo73KYI/maxresdefault.jpg",
@@ -116,7 +116,7 @@ const user=[
 
     {
         id: "12",
-        category: "hollyWood",
+        category: "hollywood",
         name: "The-Last-Rite ",
         date: "date: 26 Nov 2021",
        img: "https://www.ageratingjuju.com/wp-content/uploads/2021/10/The-Last-Rite-2.jpg",
@@ -126,7 +126,7 @@ const user=[
 
     {
         id: "13",
-        category: "hollyWood",
+        category: "hollywood",
         name: "Los Angeles",
         date: "04 Nov 2021",
        img: "https://imagetot.com/images/2021/11/25/6bd71df918d57382fdd53a55d6dfbcb1.jpg",
@@ -137,7 +137,7 @@ const user=[
 
     {
         id: "14",
-        category: "hollyWood",
+        category: "hollywood",
         name: "The accursed ",
         date: "12 November 2021",
        img: "https://s2.dmcdn.net/v/TLdGn1XT4kc682CK8/x1080",
@@ -148,7 +148,7 @@ const user=[
 
     {
         id: "15",
-        category: "hollyWood",
+        category: "hollywood",
         name: "Lamb ",
         date: "10 December 2021",
        img: "https://bgr.com/wp-content/uploads/2021/10/Lamb-A24-Screening-Room.jpg?quality=82&strip=all&w=1440&h=810&crop=1",
