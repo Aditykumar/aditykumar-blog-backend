@@ -450,8 +450,6 @@ if(req.query.Id){
     const newuser =user.filter(value=>value.Category===req.params.Category)
     res.send(newuser);
 }
-else{
-    res.send(user)
-}
+
 }
 module.exports.blogData = get
