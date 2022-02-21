@@ -4,7 +4,7 @@ const blogRouter = express.Router();
 
 blogRouter.route("/details")
     .get(blogController.blogData)
-    blogRouter.route("/details/:Category")
+    blogRouter.route("/details/:category")
     .get(blogController.blogData)
     
 
