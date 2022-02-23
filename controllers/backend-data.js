@@ -443,9 +443,12 @@ const user=[
 
 
 ]
+
 if(req.query.id){
     const newuser =user.filter(value=>value.id===req.query.id)
-    res.send(newuser);
+    const cat=user.filter(value=>value.category===newuser[0].category&&value.id!==req.query.id)
+    const detail=[...newuser,...cat]
+    res.send(detail);
 } else if(req.params.category){
     const newuser =user.filter(value=>value.category===req.params.category)
     res.send(newuser);
